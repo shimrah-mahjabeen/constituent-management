@@ -119,12 +119,13 @@ npm run test:coverage
 
 ### Running the Application
 
-````bash
+```bash
 npm install
 # Development mode with hot reload
 npm run start
+```
 
-## API Endpoints
+### API Endpoints
 
 ### Authentication
 
